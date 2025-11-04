@@ -81,6 +81,7 @@ Criei um conjunto de conteúdos sobre o tema "Natty or Not" aplicado a IAs Gener
 - Mapa de Tendências: [/conteudos/mapa-tendencias.md](./conteudos/mapa-tendencias.md)
 - Prompt para Thumbnail: [/conteudos/thumbnail-prompt.md](./conteudos/thumbnail-prompt.md)
 - Carrossel LinkedIn (10 slides): [/conteudos/carrossel-linkedin.md](./conteudos/carrossel-linkedin.md)
+- Legendas para LinkedIn (4 versões): [/conteudos/legenda-linkedin.md](./conteudos/legenda-linkedin.md)
 
 ### 💭 Reflexão
 
